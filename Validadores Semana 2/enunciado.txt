@@ -1,0 +1,14 @@
+Enunciado
+
+Se necesita una página de venta de inmuebles en donde se ofrezcan 2 casas 
+y un apartamento de $200, $600 y $170 respectivamente. 
+En el siguiente código base, 
+ubique una imagen de ancho de 200px por cada inmueble. 
+La imagen debe ir encima del texto descriptivo respectivo, es decir antes de cada etiqueta h2.
+
+Las direcciones de las imagenes son las siguientes:
+
+Casa Urbana: https://i.imgur.com/zMMpgKL.png
+Casa Rural: https://i.imgur.com/jGQQMA6.jpeg
+Apartamento: https://i.imgur.com/a7NWZHq.jpeg
+

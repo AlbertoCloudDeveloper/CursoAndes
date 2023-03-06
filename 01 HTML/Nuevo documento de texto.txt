@@ -1,0 +1,116 @@
+
+Enunciado
+
+Se necesita una página de venta de inmuebles en donde se ofrezcan 2 casas y un apartamento de $200, $600 y $170 respectivamente. 
+En el siguiente código base, ubique una imagen de ancho de 200px por cada inmueble. La imagen debe ir encima del texto descriptivo 
+respectivo, es decir antes de cada etiqueta h2.
+
+Las direcciones de las imagenes son las siguientes:
+
+Casa Urbana: https://i.imgur.com/zMMpgKL.png
+Casa Rural: https://i.imgur.com/jGQQMA6.jpeg
+Apartamento: https://i.imgur.com/a7NWZHq.jpeg
+
+
+OPCION PRINCIPAL 
+
+ <!doctype html>
+ 
+<html>
+  <head>
+    <title>Respuesta ejercicio 5</title>
+  </head>
+ 	
+  <body>
+
+    <h1>Venta de inmuebles</h1>
+
+    <img src="https://i.imgur.com/zMMpgKL.png" alt="Imagen Casa Urbana" width="200">
+    <h2>Casa urbana</br>
+    Precio:$200</br>
+    Telefono:1112223
+    </h2>
+
+    <img  src="https://i.imgur.com/jGQQMA6.jpeg" alt="Imagen Casa Rural" width="200">
+    <h2>Casa rural</br>
+    Precio:$600</br>
+    Telefono:1112224
+    </h2>
+
+    <img  src="https://i.imgur.com/a7NWZHq.jpeg" alt="Imagen Apartamento" width="200">
+    <h2>Apartamento</br>
+    Precio:$170</br>
+    Telefono:1112225
+    </h2>
+  </body>
+</html>
+
+
+OPCION 2
+
+ <!doctype html>
+ 
+<html>
+  <head>
+    <title>Respuesta ejercicio 5</title>
+  </head>
+ 	
+  <body>
+
+    <h1>Venta de inmuebles</h1>
+
+    <img src="https://i.imgur.com/zMMpgKL.png" alt="Imagen Casa Urbana" style="width=200">
+    <h2>Casa urbana</br>
+    Precio:$200</br>
+    Telefono:1112223
+    </h2>
+
+    <img  src="https://i.imgur.com/jGQQMA6.jpeg" alt="Imagen Casa Rural" style="width=200">
+    <h2>Casa rural</br>
+    Precio:$600</br>
+    Telefono:1112224
+    </h2>
+
+    <img  src="https://i.imgur.com/a7NWZHq.jpeg" alt="Imagen Apartamento" style="width=200">
+    <h2>Apartamento</br>
+    Precio:$170</br>
+    Telefono:1112225
+    </h2>
+  </body>
+</html>
+
+
+
+OPCION 3
+
+ <!doctype html>
+ 
+<html>
+  <head>
+    <title>Respuesta ejercicio 5</title>
+  </head>
+ 	
+  <body>
+
+    <h1>Venta de inmuebles</h1>
+
+    <img src="https://i.imgur.com/zMMpgKL.png" alt="Imagen Casa Urbana" style="width=200">
+    <h2>Casa urbana</br>
+    Precio:$200</br>
+    Telefono:1112223
+    </h2>
+
+    <img  src="https://i.imgur.com/jGQQMA6.jpeg" alt="Imagen Casa Rural" style="width=200">
+    <h2>Casa rural</br>
+    Precio:$600</br>
+    Telefono:1112224
+    </h2>
+
+    <img  src="https://i.imgur.com/a7NWZHq.jpeg" alt="Imagen Apartamento" style="width=200">
+    <h2>Apartamento</br>
+    Precio:$170</br>
+    Telefono:1112225
+    </h2>
+  </body>
+</html>
+
